@@ -75,12 +75,14 @@ PATCH http://127.0.0.1:8080/posts/1
 }
 ````
 
-**Delete post&website**
+**Delete post&website&subscribes**
 
 ````
 DELETE http://127.0.0.1:8080/websites/1
 
 DELETE http://127.0.0.1:8080/posts/1
+
+DELETE http://127.0.0.1:8080/subscribes/1
 ````
 
 
