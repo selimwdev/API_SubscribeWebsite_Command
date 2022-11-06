@@ -62,7 +62,7 @@ PATCH http://127.0.0.1:8080/websites/1
 
 {
     "title":"new Website 1",
-    url = "example.com"
+    "url":"example.com"
 }
 ````
 
