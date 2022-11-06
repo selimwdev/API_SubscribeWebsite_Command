@@ -58,7 +58,7 @@ POST http://127.0.0.1:8080/posts
 **Update post&website**
 
 ````
-PATCH http://127.0.0.1:8080/websites
+PATCH http://127.0.0.1:8080/websites/1
 
 {
     "title":"new Website 1",
@@ -67,7 +67,7 @@ PATCH http://127.0.0.1:8080/websites
 ````
 
 ````
-PATCH http://127.0.0.1:8080/posts
+PATCH http://127.0.0.1:8080/posts/1
 {
     "title":"new Post 1",
     "description":"hello world",
