@@ -97,7 +97,7 @@ POST http://127.0.0.1:8080/subscribes
 ````
 
 
-**Send mails when subscribe && create new post**
+**Send mails when subscribe && create new post (commands)**
 
 ````
 php artisan queue:listen
