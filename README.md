@@ -2,7 +2,7 @@
 
 **Installation**
 ````
-Download https://drive.google.com/file/d/15xri222n-xKvY6gBqzo5fh3HmSHoeG8h/view?usp=sharing
+Download https://drive.google.com/file/d/1lMPtuSGL4c1qeDYhGOpOfXHxEl89GMY0/view?usp=sharing
 composer update
 composer install
 php artisan key:genrate
